@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombreCompleto": "Fernando Narez Ruiz",
+      "edad": "30"
+    },
+    {
+      "id": "2",
+      "nombreCompleto": "Ovidio Guzman Lopez",
+      "edad": "32"
+    }
+  ]
+}

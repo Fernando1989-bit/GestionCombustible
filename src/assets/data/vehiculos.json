@@ -1,0 +1,18 @@
+{
+    "vehiculos": [
+      {
+        "id": "1",
+        "marca": "Dodge",
+        "modelo": "Neon",
+        "noPlaca": "4XVK825"
+        
+      },
+      {
+        "id": "2",
+        "marca": "Honda",
+        "modelo": "Dio",
+        "noPlaca": "PBP8P"
+      }
+    ]
+  }
+  
